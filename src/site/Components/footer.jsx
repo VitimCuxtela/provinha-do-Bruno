@@ -13,7 +13,7 @@ function Footer(){
             </ul>
 	    </div>
       <a href="mailto:victor.bellini@etec.sp.gov.br">victor.bellini@etec.sp.gov.br</a>
-      <p>Desenvolvido por 99 Coders - {ano}</p>
+      <p>Desenvolvido por Vitim Cuxtela - {ano}</p>
 
     </section>;
   }

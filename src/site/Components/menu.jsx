@@ -19,9 +19,6 @@ function Menu(){
               <a className="nav-link" aria-current="page" href="#banner">Home</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" aria-current="page" href="#features">Features</a>
-            </li>
-            <li className="nav-item">
               <a className="nav-link" aria-current="page" href="#footer">Contato</a>
             </li>
           </ul>
