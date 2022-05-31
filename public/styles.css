@@ -34,51 +34,6 @@ p{
     margin: 8% 3% 5% 0;
 }
 
-/* FEATURES */
-
-#features{
-    padding: 7% 5%;
-}
-
-.feature-box{
-    text-align: center;
-    padding: 5%;
-}
-
-.icon{
-    color: #0d6efd;
-    margin-bottom: 15px;
-}
-
-
-/* TESTEMUNHOS */
-
-#testemunho{
-    background-color: #f3f3f3;
-    color: #323338;
-    padding: 7% 15%;
-    text-align: center;
-}
-
-#testemunho img {
-    border-radius: 50%;
-    width: 10%;
-    margin: 20px;
-}
-
-
-/* PRECOS */
-
-#preco .titulo{
-    margin-top: 5%;
-}
-
-#preco{
-    padding: 5% 15% 8%;
-    color: #323338;
-}
-
-
 /* FOOTER */
 
 #footer{
